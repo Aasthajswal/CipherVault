@@ -207,8 +207,8 @@ public class ConsoleUI {
         println(" ██║     ██║██╔═══╝ ██╔══██║██╔══╝  ██╔══██╗");
         println(" ╚██████╗██║██║     ██║  ██║███████╗██║  ██║");
         println("  ╚═════╝╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝");
-        println("              V A U L T  v1.0" + RESET);
-        println(CYAN + "       Encrypted Password Manager — Pure Java" + RESET);
+        println("              V A U L T  " + RESET);
+        println(CYAN + "       Encrypted Password Manager " + RESET);
         divider();
     }
 
